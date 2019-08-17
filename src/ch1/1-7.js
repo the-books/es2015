@@ -1,6 +1,6 @@
 let sum = 0;
 
-for (let number = 1; number < 11; number++) {
+for (let number = 1; number < 11; ++number) {
   sum += number;
 }
 
